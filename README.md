@@ -1,4 +1,4 @@
-[![image](/webapp/src/assets/banners/banner.png)](https://betterfleet.fr/)
+![image](https://cdn.discordapp.com/attachments/1253082559206920374/1355688473813717154/bannerrrr.png?ex=67e9d6c7&is=67e88547&hm=17cc5ef9e2d9a09a43d49937824823adcf3b4552064e750e4f120c23b027b9f1&)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 [![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)](https://tauri.app/)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zelytra)
